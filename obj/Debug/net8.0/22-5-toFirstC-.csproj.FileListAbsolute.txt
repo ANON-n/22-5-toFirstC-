@@ -12,3 +12,4 @@ D:\Code Of Visual\22-5-toFirstC-\obj\Debug\net8.0\refint\22-5-toFirstC-.dll
 D:\Code Of Visual\22-5-toFirstC-\obj\Debug\net8.0\22-5-toFirstC-.pdb
 D:\Code Of Visual\22-5-toFirstC-\obj\Debug\net8.0\22-5-toFirstC-.genruntimeconfig.cache
 D:\Code Of Visual\22-5-toFirstC-\obj\Debug\net8.0\ref\22-5-toFirstC-.dll
+D:\Code Of Visual\22-5-toFirstC-\obj\Debug\net8.0\22-5-toFirstC-.sourcelink.json

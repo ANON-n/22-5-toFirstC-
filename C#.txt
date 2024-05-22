@@ -1,0 +1,15 @@
+1. LINQ: Language Interface Query
+    _ phương thức truy vấn thông dụng: Select, Where, OrderBy, Join, GroupBy, Count
+Entity Frame
+| và ||
+4. F5 10 11 và + Shift
+    _ F10: Debug qua từng dòng lệnh của hàm/file
+    _ F11: Debug chi tiết
+    _ F5: Chạy chương trình 
+store procedure
+Data Type
+Variable
+Expression
+
+Tìm hiểu trước
+Edument
